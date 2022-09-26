@@ -1,7 +1,6 @@
 class Calculator {
   int add(int valueOne, int valueTwo) {
-    var result = valueOne + valueTwo;
-    return result;
+    return valueOne + valueTwo;
   }
 
   int substract(int valueOne, int valueTwo) {
